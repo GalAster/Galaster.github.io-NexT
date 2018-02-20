@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b30fef0-7f8c-4436-b66f-18489ad251f7" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/ar.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/bg.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/bn.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/cs.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/da.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/el.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/es.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/et.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/fa.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/fi.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/he.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/hi.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/hr.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/hu.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/jv.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/lt.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/lv.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/ms.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/no.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/pa.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/pl.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/ro.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/sl.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/sr.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/sv.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/th.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/tr.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/uk.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layout/_macro/post-related.swig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/layout/_partials/breadcrumb.swig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/tags/include-raw.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/source/css/_common/components/pages/breadcrumb.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/source/css/_common/components/third-party/related-posts.styl" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change beforePath="$PROJECT_DIR$/docs/ALGOLIA-SEARCH.md" afterPath="$PROJECT_DIR$/docs/ALGOLIA-SEARCH.md" />
+      <change beforePath="$PROJECT_DIR$/docs/MATH.md" afterPath="$PROJECT_DIR$/docs/MATH.md" />
+      <change beforePath="$PROJECT_DIR$/docs/ru/README.md" afterPath="$PROJECT_DIR$/docs/ru/README.md" />
+      <change beforePath="$PROJECT_DIR$/docs/zh-CN/ALGOLIA-SEARCH.md" afterPath="$PROJECT_DIR$/docs/zh-CN/ALGOLIA-SEARCH.md" />
+      <change beforePath="$PROJECT_DIR$/docs/zh-CN/MATH.md" afterPath="$PROJECT_DIR$/docs/zh-CN/MATH.md" />
+      <change beforePath="$PROJECT_DIR$/docs/zh-CN/README.md" afterPath="$PROJECT_DIR$/docs/zh-CN/README.md" />
+      <change beforePath="$PROJECT_DIR$/languages/_en.yml" afterPath="$PROJECT_DIR$/languages/_en.yml" />
+      <change beforePath="$PROJECT_DIR$/languages/de.yml" afterPath="$PROJECT_DIR$/languages/de.yml" />
+      <change beforePath="$PROJECT_DIR$/languages/fr.yml" afterPath="$PROJECT_DIR$/languages/fr.yml" />
+      <change beforePath="$PROJECT_DIR$/languages/id.yml" afterPath="$PROJECT_DIR$/languages/id.yml" />
+      <change beforePath="$PROJECT_DIR$/languages/it.yml" afterPath="$PROJECT_DIR$/languages/it.yml" />
+      <change beforePath="$PROJECT_DIR$/languages/ja.yml" afterPath="$PROJECT_DIR$/languages/ja.yml" />
+      <change beforePath="$PROJECT_DIR$/languages/ko.yml" afterPath="$PROJECT_DIR$/languages/ko.yml" />
+      <change beforePath="$PROJECT_DIR$/languages/nl.yml" afterPath="$PROJECT_DIR$/languages/nl.yml" />
+      <change beforePath="$PROJECT_DIR$/languages/pt-BR.yml" afterPath="$PROJECT_DIR$/languages/pt-BR.yml" />
+      <change beforePath="$PROJECT_DIR$/languages/pt.yml" afterPath="$PROJECT_DIR$/languages/pt.yml" />
+      <change beforePath="$PROJECT_DIR$/languages/ru.yml" afterPath="$PROJECT_DIR$/languages/ru.yml" />
+      <change beforePath="$PROJECT_DIR$/languages/vi.yml" afterPath="$PROJECT_DIR$/languages/vi.yml" />
+      <change beforePath="$PROJECT_DIR$/languages/zh-CN.yml" afterPath="$PROJECT_DIR$/languages/zh-CN.yml" />
+      <change beforePath="$PROJECT_DIR$/languages/zh-HK.yml" afterPath="$PROJECT_DIR$/languages/zh-HK.yml" />
+      <change beforePath="$PROJECT_DIR$/languages/zh-TW.yml" afterPath="$PROJECT_DIR$/languages/zh-TW.yml" />
+      <change beforePath="$PROJECT_DIR$/layout/_macro/post-copyright.swig" afterPath="$PROJECT_DIR$/layout/_macro/post-copyright.swig" />
+      <change beforePath="$PROJECT_DIR$/layout/_macro/post.swig" afterPath="$PROJECT_DIR$/layout/_macro/post.swig" />
+      <change beforePath="$PROJECT_DIR$/layout/_macro/sidebar.swig" afterPath="$PROJECT_DIR$/layout/_macro/sidebar.swig" />
+      <change beforePath="$PROJECT_DIR$/layout/_partials/head/head.swig" afterPath="$PROJECT_DIR$/layout/_partials/head/head.swig" />
+      <change beforePath="$PROJECT_DIR$/layout/_partials/page-header.swig" afterPath="$PROJECT_DIR$/layout/_partials/page-header.swig" />
+      <change beforePath="$PROJECT_DIR$/layout/_third-party/analytics/busuanzi-counter.swig" afterPath="$PROJECT_DIR$/layout/_third-party/analytics/busuanzi-counter.swig" />
+      <change beforePath="$PROJECT_DIR$/layout/_third-party/analytics/firestore.swig" afterPath="$PROJECT_DIR$/layout/_third-party/analytics/firestore.swig" />
+      <change beforePath="$PROJECT_DIR$/layout/_third-party/bookmark.swig" afterPath="$PROJECT_DIR$/layout/_third-party/bookmark.swig" />
+      <change beforePath="$PROJECT_DIR$/layout/_third-party/comments/valine.swig" afterPath="$PROJECT_DIR$/layout/_third-party/comments/valine.swig" />
+      <change beforePath="$PROJECT_DIR$/layout/_third-party/github-banner.swig" afterPath="$PROJECT_DIR$/layout/_third-party/github-banner.swig" />
+      <change beforePath="$PROJECT_DIR$/layout/page.swig" afterPath="$PROJECT_DIR$/layout/page.swig" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/scripts/tags/button.js" afterPath="$PROJECT_DIR$/scripts/tags/button.js" />
+      <change beforePath="$PROJECT_DIR$/scripts/tags/center-quote.js" afterPath="$PROJECT_DIR$/scripts/tags/center-quote.js" />
+      <change beforePath="$PROJECT_DIR$/scripts/tags/exturl.js" afterPath="$PROJECT_DIR$/scripts/tags/exturl.js" />
+      <change beforePath="$PROJECT_DIR$/scripts/tags/full-image.js" afterPath="$PROJECT_DIR$/scripts/tags/full-image.js" />
+      <change beforePath="$PROJECT_DIR$/scripts/tags/group-pictures.js" afterPath="$PROJECT_DIR$/scripts/tags/group-pictures.js" />
+      <change beforePath="$PROJECT_DIR$/scripts/tags/label.js" afterPath="$PROJECT_DIR$/scripts/tags/label.js" />
+      <change beforePath="$PROJECT_DIR$/scripts/tags/lazy-image.js" afterPath="$PROJECT_DIR$/scripts/tags/lazy-image.js" />
+      <change beforePath="$PROJECT_DIR$/scripts/tags/note.js" afterPath="$PROJECT_DIR$/scripts/tags/note.js" />
+      <change beforePath="$PROJECT_DIR$/source/css/_common/components/pages/pages.styl" afterPath="$PROJECT_DIR$/source/css/_common/components/pages/pages.styl" />
+      <change beforePath="$PROJECT_DIR$/source/css/_common/components/sidebar/sidebar-author-links.styl" afterPath="$PROJECT_DIR$/source/css/_common/components/sidebar/sidebar-author-links.styl" />
+      <change beforePath="$PROJECT_DIR$/source/css/_common/components/sidebar/sidebar-toc.styl" afterPath="$PROJECT_DIR$/source/css/_common/components/sidebar/sidebar-toc.styl" />
+      <change beforePath="$PROJECT_DIR$/source/css/_common/components/sidebar/sidebar.styl" afterPath="$PROJECT_DIR$/source/css/_common/components/sidebar/sidebar.styl" />
+      <change beforePath="$PROJECT_DIR$/source/css/_common/components/third-party/algolia-search.styl" afterPath="$PROJECT_DIR$/source/css/_common/components/third-party/algolia-search.styl" />
+      <change beforePath="$PROJECT_DIR$/source/css/_common/components/third-party/third-party.styl" afterPath="$PROJECT_DIR$/source/css/_common/components/third-party/third-party.styl" />
+      <change beforePath="$PROJECT_DIR$/source/css/_mixins/Pisces.styl" afterPath="$PROJECT_DIR$/source/css/_mixins/Pisces.styl" />
+      <change beforePath="$PROJECT_DIR$/source/css/_schemes/Gemini/index.styl" afterPath="$PROJECT_DIR$/source/css/_schemes/Gemini/index.styl" />
+      <change beforePath="$PROJECT_DIR$/source/css/_schemes/Pisces/_layout.styl" afterPath="$PROJECT_DIR$/source/css/_schemes/Pisces/_layout.styl" />
+      <change beforePath="$PROJECT_DIR$/source/css/_schemes/Pisces/_sidebar.styl" afterPath="$PROJECT_DIR$/source/css/_schemes/Pisces/_sidebar.styl" />
+      <change beforePath="$PROJECT_DIR$/source/css/_variables/Gemini.styl" afterPath="$PROJECT_DIR$/source/css/_variables/Gemini.styl" />
+      <change beforePath="$PROJECT_DIR$/source/css/_variables/base.styl" afterPath="$PROJECT_DIR$/source/css/_variables/base.styl" />
+      <change beforePath="$PROJECT_DIR$/source/js/src/motion.js" afterPath="$PROJECT_DIR$/source/js/src/motion.js" />
+      <change beforePath="$PROJECT_DIR$/source/js/src/utils.js" afterPath="$PROJECT_DIR$/source/js/src/utils.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1283" />
+    <option name="height" value="841" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Galaster.github.io-NexT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Galaster.github.io-NexT" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b30fef0-7f8c-4436-b66f-18489ad251f7" name="Default" comment="" />
+      <created>1518972481284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518972481284</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
